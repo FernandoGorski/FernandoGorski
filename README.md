@@ -1,4 +1,6 @@
 
 # Olá, eu sou o Fernando !!
 
-- 🔭 Estou cursando Análise e Desenvolvimento de Sistemas - 4º Período
+<div> 
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=FernandoGorski&show_icons=true&theme=radical"> 
+</div>
